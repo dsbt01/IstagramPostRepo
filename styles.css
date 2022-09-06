@@ -1,3 +1,14 @@
 body{
     font-family: Roboto;
+    background: black;
+}
+
+.post{
+    width: 700px;
+    background: white;
+}
+
+.header{
+    height: 50px;
+    display: flex;
 }
