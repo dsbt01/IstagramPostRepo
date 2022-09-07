@@ -1,6 +1,7 @@
 body{
     font-family: Roboto;
     background: black;
+    margin-left: 250px;
 }
 
 .post{
@@ -10,5 +11,19 @@ body{
 
 .header{
     height: 50px;
-    display: flex;
+    display: flex;    
+}
+
+.header span{
+    margin-top: 7px;
+}
+
+.header i{
+    margin-top: 25px;
+    margin-right: 10px;
+}
+
+.elipsisIcon{
+    margin-right: 10px;
+    margin-left: 580px;
 }
