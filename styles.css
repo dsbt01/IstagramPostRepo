@@ -21,9 +21,14 @@ body{
 .header i{
     margin-top: 25px;
     margin-right: 10px;
+    margin-left: 10px;
 }
 
 .elipsisIcon{
     margin-right: 10px;
-    margin-left: 580px;
+    margin-left: 570px;
+}
+
+.image-container{
+    width: 700px;
 }
