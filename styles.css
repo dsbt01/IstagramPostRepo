@@ -33,7 +33,7 @@ body{
 
 .image-container{
     width: 700px;
-    height: 400px;
+    height: 300px;
 }
 
 .threeIcons{
@@ -44,7 +44,19 @@ body{
 }
 
 .flagIcon{
-    margin-top: 15px;
+    margin-top: 25px;
     margin-right: 10px;
     float: right;
+}
+
+.liked-section{
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.paragraph-section span{
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
