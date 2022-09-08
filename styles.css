@@ -16,19 +16,35 @@ body{
 
 .header span{
     margin-top: 7px;
+    width: 650px;
 }
 
 .header i{
     margin-top: 25px;
     margin-right: 10px;
     margin-left: 10px;
+    float: right;
 }
 
 .elipsisIcon{
     margin-right: 10px;
-    margin-left: 570px;
+    float: left;
 }
 
 .image-container{
     width: 700px;
+    height: 400px;
+}
+
+.threeIcons{
+    height: 35px;
+    margin-left: 10px;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.flagIcon{
+    margin-top: 15px;
+    margin-right: 10px;
+    float: right;
 }
